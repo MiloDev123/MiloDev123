@@ -9,11 +9,11 @@
 - **Operating Systems**: Ubuntu, Debian, Alpine
 - **Languages**: Node.js, TypeScript, Go, PHP, Java, Python
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Express, Nginx, MongoDB, MySQL, PostgreSQL, Redis
+- **Backend**: Flask, Nginx, MongoDB, MySQL, PostgreSQL, Redis
 - **DevOps**: Docker, AWS, GCP, Linux
-- **Tools**: Git, Postman, Photoshop, Blender
+- **Tools**: Git, Postman, Blender
 
-![Skills](https://skillicons.dev/icons?i=nodejs,ts,go,php,java,py,html,js,css,latex,markdown,ubuntu,debian,nginx,mongodb,mysql,postgresql,redis,aws,docker,gcp,bash,electron,unity,unreal,git,linux,postman,photoshop,blender)
+![Skills](https://skillicons.dev/icons?i=nodejs,ts,go,php,java,py,html,js,css,latex,markdown,ubuntu,debian,nginx,mongodb,mysql,postgresql,redis,aws,docker,gcp,bash,electron,unity,unreal,git,linux,postman,flask,blender)
 
 ## 🛠️ My Go-To Platforms
 - **Discord**: For connecting with fellow developers and communities.
